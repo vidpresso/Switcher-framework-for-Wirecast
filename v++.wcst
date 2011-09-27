@@ -1,0 +1,138 @@
+<document version="5" os="macosx" original_document_path="">
+	<document_prefs aspect_ratio_type="1853108537" />
+	<open_windows>
+		<vamWindowGlass frame="488,159,1343,1097" asset_icon_scale="0.5" selected_layer="1836282930" layer_panel_open="1" vam_main_splitter="0.65" />
+	</open_windows>
+	<vam_state stats_shown="1" master_audio_shown="1" preview_shown="0" transition_0_unique_id="-- CUT --" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="side" />
+	<transition_data />
+	<chroma_key_data />
+	<advanced_output />
+	<output_presets />
+	<volume value="1" />
+	<auto_live value="0" />
+	<output_annotations>
+		<xml_tag output_info="" output_title="" output_author="" output_copyright="" />
+	</output_annotations>
+	<transition_duration va_duration="166666" />
+	<visual_style />
+	<ustream_prefs />
+	<lite_prefs />
+	<media_directories />
+	<layer_names layer_4="audio" layer_3="background" layer_2="normal" layer_1="foreground" layer_0="text" />
+	<shotsLiveWhenSaved />
+	<assets>
+		<asset name="Blank Shot" unique_id="72B3202A-9B47-4AC6-99D6-039769EB6AB1_shot" type="shot" media-type="9" blank_shot="1" created_for_layer="5" sort_on_text="0" />
+		<asset name="Blank Shot" unique_id="DCF494FE-49B1-4E7C-B39B-D4A2E570F640_shot" type="shot" media-type="9" blank_shot="1" created_for_layer="1" />
+		<asset name="Blank Shot" unique_id="6A1BECBD-9CB4-4ED7-BA3A-A2DE1CEDEF12_shot" type="shot" media-type="9" blank_shot="1" created_for_layer="2" />
+		<asset name="Blank Shot" unique_id="A3F76C98-5D79-4B24-B87F-8E464863A6B7_shot" type="shot" media-type="9" blank_shot="1" created_for_layer="3" />
+		<asset name="Blank Shot" unique_id="DC9C67ED-8F9B-46C8-BABB-E41AB51F50C2_shot" type="shot" media-type="9" blank_shot="1" created_for_layer="4" />
+		<asset name="bug" unique_id="A78A81EC-AD17-4D2B-8336-7878EA62EAF6_shot" type="shot" media-type="9" sort_on_text="2" created_for_layer="5" />
+		<asset name="l3rd-1" unique_id="38C8AE11-58A6-416C-8B7C-F25D72EB7251_shot" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-2" unique_id="8FEBF71F-9608-4EAA-A158-9F6EF1F842D6" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-3" unique_id="1B49683A-5BD8-4961-8D53-CB739A38DC0A" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-4" unique_id="E4E2AB1C-0A1D-4A2D-9957-ABCFE46E2BBB" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-5" unique_id="A09A2408-D335-422E-BD3D-290CF6118079" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-6" unique_id="B575EF7C-8E68-4FBE-853D-1CAA384B8495" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-7" unique_id="51F550F5-1C3D-4A1F-A07E-041D993EFB2D" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-8" unique_id="0B3D33C6-FF29-443E-A44D-BF205A9C3493" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="l3rd-9" unique_id="770FE7FA-1C4A-4C37-AA8A-B3A8ACE85D80" type="shot" media-type="9" created_for_layer="1" />
+		<asset name="cam1" unique_id="FC2D896A-5D73-4784-95FB-AED76FC2942D_shot" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam2" unique_id="60022774-9CC1-4AC3-8BD8-5DCE0C0A477A" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam3" unique_id="860DC412-E26C-4F29-A2F6-6FE89E24FA8B" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam4" unique_id="9F0FEEA5-2194-4BD2-BB66-8101833295F8" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam5" unique_id="05EBA8B5-0E5F-46BF-B0A7-9F6C20D6336F" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam6" unique_id="D0D230D9-F7F4-4F39-959B-A00497206BC6" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam7" unique_id="7541C54B-BC54-4F71-BE91-5AD756DACCCD" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam8" unique_id="B6E3CEB6-56D1-4E34-8254-D227327CD8E1" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam9" unique_id="0477A8A3-5F1B-4E03-A86B-98822FAEE5CD" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="boxes_bkg" unique_id="9F49DAF9-BAE3-499B-ABB9-19B67E255A6F_shot" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam1-lb" unique_id="661CEC45-19EE-4719-8114-8133A153D1BB" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam2-lb" unique_id="74DCF1F0-756B-4CE5-B0BA-57CD2634BA4D" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam3-lb" unique_id="989ECFCA-1612-4DD9-AF5B-7316B598A058" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam4-lb" unique_id="6790579E-4724-44C9-A621-15188940BAC5" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam5-lb" unique_id="C7DC2E02-1DFD-48A9-9CD1-1F059F8F4C21" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam6-lb" unique_id="59870FC1-CBEC-46C3-B4A1-759388461989" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam7-lb" unique_id="F7F1AA88-72D0-49C7-B37A-FA6ABF0518A7" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam8-lb" unique_id="70527CA5-AAD6-428A-BB5A-D8F1661C1CB2" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam9-lb" unique_id="51582427-2156-4703-9BC9-00E00014F027" type="shot" media-type="9" created_for_layer="3" />
+		<asset name="cam1-rb" unique_id="FDE7F125-3213-483D-9125-331C56180EB8" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam2-rb" unique_id="FA1F3A7E-C06A-4B51-892B-1A2DE440F4B5" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam3-rb" unique_id="11EC1D79-1300-4003-B78C-0E68E648179F" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam4-rb" unique_id="BCA40E92-03A8-4446-80A8-59F4AB4D5CF4" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam5-rb" unique_id="160B4CEE-780A-46FE-BF44-1FA622F773AC" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam6-rb" unique_id="B94F23BB-0D5F-465F-B4EF-5FF32139465C" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam7-rb" unique_id="56E1448B-0946-487F-AE6F-F5187C47935E" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam8-rb" unique_id="12A117DB-2CC3-4AB1-8408-F3A9BB1CE410" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam9-rb" unique_id="CD26C928-3831-4741-90FE-0DA1D57F1C87" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="intro" unique_id="0904717E-998F-4F68-ABF7-6B7AD7A62FA0" type="shot" media-type="9" sort_on_text="1" created_for_layer="5" />
+		<asset name="outro" unique_id="E03ECA86-969D-4C44-B24D-34AC72779A19" type="shot" media-type="9" sort_on_text="3" created_for_layer="5" />
+		<asset name="program" unique_id="3BDF629E-BDA9-4593-9A5C-8273BD2909CE_shot" type="shot" media-type="9" created_for_layer="4" />
+		<asset name="cam1+cg" unique_id="772407CE-7BD6-4A53-B1A0-4071E5EB1E76" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam2+cg" unique_id="5A2802BB-5A8F-4C91-8A5B-03131483F338" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam3+cg" unique_id="9B79F700-A1C6-4FFC-B7A1-3CCFA6CAB853" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam4+cg" unique_id="6B338310-452B-478E-BA06-B189C4DB8A2B" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam5+cg" unique_id="C605C767-D12F-4B86-8941-CD93CFA66BF8" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam6+cg" unique_id="A09ACB1C-5D24-49BF-9F81-79E9C82AB316" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam7+cg" unique_id="14B4D5AC-2080-49D0-B7B5-C7CD4A878013" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam8+cg" unique_id="68BDA7B4-741D-4634-B90E-888717C2AE2D" type="shot" media-type="9" created_for_layer="2" />
+		<asset name="cam9+cg" unique_id="916BCF2E-8EC8-4D4F-8B7B-0FF8C2477742" type="shot" media-type="9" created_for_layer="2" />
+	</assets>
+	<chroma_key_configurations />
+	<shots>
+		<shot event_type="2" unique_id="72B3202A-9B47-4AC6-99D6-039769EB6AB1_shot" />
+		<shot event_type="2" unique_id="DCF494FE-49B1-4E7C-B39B-D4A2E570F640_shot" />
+		<shot event_type="2" unique_id="6A1BECBD-9CB4-4ED7-BA3A-A2DE1CEDEF12_shot" />
+		<shot event_type="2" unique_id="A3F76C98-5D79-4B24-B87F-8E464863A6B7_shot" />
+		<shot event_type="2" unique_id="DC9C67ED-8F9B-46C8-BABB-E41AB51F50C2_shot" />
+		<shot event_type="2" unique_id="A78A81EC-AD17-4D2B-8336-7878EA62EAF6_shot" />
+		<shot event_type="2" unique_id="38C8AE11-58A6-416C-8B7C-F25D72EB7251_shot" />
+		<shot event_type="2" unique_id="8FEBF71F-9608-4EAA-A158-9F6EF1F842D6" />
+		<shot event_type="2" unique_id="1B49683A-5BD8-4961-8D53-CB739A38DC0A" />
+		<shot event_type="2" unique_id="E4E2AB1C-0A1D-4A2D-9957-ABCFE46E2BBB" />
+		<shot event_type="2" unique_id="A09A2408-D335-422E-BD3D-290CF6118079" />
+		<shot event_type="2" unique_id="B575EF7C-8E68-4FBE-853D-1CAA384B8495" />
+		<shot event_type="2" unique_id="51F550F5-1C3D-4A1F-A07E-041D993EFB2D" />
+		<shot event_type="2" unique_id="0B3D33C6-FF29-443E-A44D-BF205A9C3493" />
+		<shot event_type="2" unique_id="770FE7FA-1C4A-4C37-AA8A-B3A8ACE85D80" />
+		<shot event_type="2" unique_id="FC2D896A-5D73-4784-95FB-AED76FC2942D_shot" />
+		<shot event_type="2" unique_id="60022774-9CC1-4AC3-8BD8-5DCE0C0A477A" />
+		<shot event_type="2" unique_id="860DC412-E26C-4F29-A2F6-6FE89E24FA8B" />
+		<shot event_type="2" unique_id="9F0FEEA5-2194-4BD2-BB66-8101833295F8" />
+		<shot event_type="2" unique_id="05EBA8B5-0E5F-46BF-B0A7-9F6C20D6336F" />
+		<shot event_type="2" unique_id="D0D230D9-F7F4-4F39-959B-A00497206BC6" />
+		<shot event_type="2" unique_id="7541C54B-BC54-4F71-BE91-5AD756DACCCD" />
+		<shot event_type="2" unique_id="B6E3CEB6-56D1-4E34-8254-D227327CD8E1" />
+		<shot event_type="2" unique_id="0477A8A3-5F1B-4E03-A86B-98822FAEE5CD" />
+		<shot event_type="2" unique_id="9F49DAF9-BAE3-499B-ABB9-19B67E255A6F_shot" />
+		<shot event_type="2" unique_id="661CEC45-19EE-4719-8114-8133A153D1BB" />
+		<shot event_type="2" unique_id="74DCF1F0-756B-4CE5-B0BA-57CD2634BA4D" />
+		<shot event_type="2" unique_id="989ECFCA-1612-4DD9-AF5B-7316B598A058" />
+		<shot event_type="2" unique_id="6790579E-4724-44C9-A621-15188940BAC5" />
+		<shot event_type="2" unique_id="C7DC2E02-1DFD-48A9-9CD1-1F059F8F4C21" />
+		<shot event_type="2" unique_id="59870FC1-CBEC-46C3-B4A1-759388461989" />
+		<shot event_type="2" unique_id="F7F1AA88-72D0-49C7-B37A-FA6ABF0518A7" />
+		<shot event_type="2" unique_id="70527CA5-AAD6-428A-BB5A-D8F1661C1CB2" />
+		<shot event_type="2" unique_id="51582427-2156-4703-9BC9-00E00014F027" />
+		<shot event_type="2" unique_id="FDE7F125-3213-483D-9125-331C56180EB8" />
+		<shot event_type="2" unique_id="FA1F3A7E-C06A-4B51-892B-1A2DE440F4B5" />
+		<shot event_type="2" unique_id="11EC1D79-1300-4003-B78C-0E68E648179F" />
+		<shot event_type="2" unique_id="BCA40E92-03A8-4446-80A8-59F4AB4D5CF4" />
+		<shot event_type="2" unique_id="160B4CEE-780A-46FE-BF44-1FA622F773AC" />
+		<shot event_type="2" unique_id="B94F23BB-0D5F-465F-B4EF-5FF32139465C" />
+		<shot event_type="2" unique_id="56E1448B-0946-487F-AE6F-F5187C47935E" />
+		<shot event_type="2" unique_id="12A117DB-2CC3-4AB1-8408-F3A9BB1CE410" />
+		<shot event_type="2" unique_id="CD26C928-3831-4741-90FE-0DA1D57F1C87" />
+		<shot event_type="2" unique_id="0904717E-998F-4F68-ABF7-6B7AD7A62FA0" />
+		<shot event_type="2" unique_id="E03ECA86-969D-4C44-B24D-34AC72779A19" />
+		<shot event_type="2" unique_id="3BDF629E-BDA9-4593-9A5C-8273BD2909CE_shot" />
+		<shot event_type="2" unique_id="772407CE-7BD6-4A53-B1A0-4071E5EB1E76" />
+		<shot event_type="2" unique_id="5A2802BB-5A8F-4C91-8A5B-03131483F338" />
+		<shot event_type="2" unique_id="9B79F700-A1C6-4FFC-B7A1-3CCFA6CAB853" />
+		<shot event_type="2" unique_id="6B338310-452B-478E-BA06-B189C4DB8A2B" />
+		<shot event_type="2" unique_id="C605C767-D12F-4B86-8941-CD93CFA66BF8" />
+		<shot event_type="2" unique_id="A09ACB1C-5D24-49BF-9F81-79E9C82AB316" />
+		<shot event_type="2" unique_id="14B4D5AC-2080-49D0-B7B5-C7CD4A878013" />
+		<shot event_type="2" unique_id="68BDA7B4-741D-4634-B90E-888717C2AE2D" />
+		<shot event_type="2" unique_id="916BCF2E-8EC8-4D4F-8B7B-0FF8C2477742" />
+	</shots>
+</document>
